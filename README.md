@@ -42,7 +42,7 @@ For example, a customer securing a loan of 90% of property value of RM 500,000, 
 = (0.90*500000) * ((0.0445/12) * (1+(0.0445/12)) ^ (30*12)) / ((1+(0.0445/12)) ^ (30*12)) - 1)
 = 2266.73
 
-The monthly repayment is RM 2,263.73.
+The monthly repayment is RM 2,266.73.
 
 # Task
 
